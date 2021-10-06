@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishapriya28" alt="tanishapriya28" /></a> </p>
 
-![alt-text](https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707)
 
 
 
